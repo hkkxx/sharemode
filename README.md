@@ -1,0 +1,2 @@
+# sharemode
+all mode
